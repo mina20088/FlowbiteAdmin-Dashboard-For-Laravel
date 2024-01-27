@@ -8,4 +8,7 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    resolve:{
+        extensions:['.svg']
+    }
 });
