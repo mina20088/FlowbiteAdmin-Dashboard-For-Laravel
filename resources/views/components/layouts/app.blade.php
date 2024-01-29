@@ -16,7 +16,15 @@
 </head>
 <body  class="bg-gray-50 dark:bg-gray-800">
 
+    {{-- Header --}}
     @include('partials.__header')
+
+    <div class="flex pt-16 overflow-hidden bg-gray-50 dark:bg-gray-900">
+
+        @include('partials.__sidebar')
+
+    </div>
+    
     <script async defer src="https://buttons.github.io/buttons.js" defer></script>
     <script src="https://flowbite-admin-dashboard.vercel.app//app.bundle.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.2/datepicker.min.js" defer></script>
