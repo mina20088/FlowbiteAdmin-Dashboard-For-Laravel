@@ -22,6 +22,7 @@
             <x-dashboard.header.apps-button/>
             <!-- Dropdown menu -->
             <x-dashboard.header.apps-drop-down/>
+            
             <x-dashboard.header.dark-white-mode-toggler/>
 
             <!-- Profile -->
