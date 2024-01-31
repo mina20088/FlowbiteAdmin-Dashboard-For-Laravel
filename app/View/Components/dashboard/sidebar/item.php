@@ -1,12 +1,12 @@
 <?php
 
-namespace App\View\Components\sidebar;
+namespace App\View\Components\dashboard\\sidebar;
 
 use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class \backdrop extends Component
+class \item extends Component
 {
     /**
      * Create a new component instance.
@@ -21,6 +21,6 @@ class \backdrop extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.sidebar..backdrop');
+        return view('components.dashboard..sidebar..item');
     }
 }
