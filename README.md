@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # [Flowbite Admin Dashboard For Laravel](https://flowbite-admin-dashboard.vercel.app) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%20and%20Tailwind%20CSS)
-=======
+
 # [Flowbite Admin Dashboard](https://flowbite-admin-dashboard.vercel.app) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%20and%20Tailwind%20CSS)
->>>>>>> 61dd3d8c38eb09e36fd636d79b836486952b9cb8
 
 [![version](https://img.shields.io/npm/v/flowbite-admin-dashboard)](https://www.npmjs.com/package/flowbite-admin-dashboard)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
@@ -51,6 +49,8 @@ This product is built using the following widely used technologies:
 =======
 - [Flowbite Admin Dashboard ](#flowbite-admin-dashboard-)
 >>>>>>> 61dd3d8c38eb09e36fd636d79b836486952b9cb8
+- [Flowbite Admin Dashboard For Laravel ](#flowbite-admin-dashboard-for-laravel-)
+- [Flowbite Admin Dashboard ](#flowbite-admin-dashboard-)
   - [🌀 Built with Flowbite](#-built-with-flowbite)
   - [💨 Tailwind CSS utility classes](#-tailwind-css-utility-classes)
   - [📊 15 example pages](#-15-example-pages)
